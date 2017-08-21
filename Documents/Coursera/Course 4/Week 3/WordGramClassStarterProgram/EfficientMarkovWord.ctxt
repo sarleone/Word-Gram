@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=order
+comment0.target=EfficientMarkovWord(int)
+comment1.params=seed
+comment1.target=void\ setRandom(int)
+comment2.params=text
+comment2.target=void\ setTraining(java.lang.String)
+comment3.params=words\ target\ start
+comment3.target=int\ indexOf(java.lang.String[],\ WordGram,\ int)
+comment4.params=numWords
+comment4.target=java.lang.String\ getRandomText(int)
+comment5.params=
+comment5.target=void\ buildMap()
+comment6.params=
+comment6.target=void\ printHashMapInfo()
+comment7.params=key
+comment7.target=java.util.ArrayList\ getFollows(WordGram)
+comment8.params=key
+comment8.target=java.util.ArrayList\ findFollows(WordGram)
+numComments=9
